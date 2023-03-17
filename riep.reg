@@ -1,0 +1,3 @@
+Windows Registry Editor Version 5.00
+[Computer\HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Microsoft\Internet Explorer]
+"Version"=:string:"9.11.22000.0"
